@@ -3,7 +3,7 @@
     "name": "social_app",
     "slug": "social_app",
     "privacy": "public",
-    "sdkVersion": "32.0.0",
+    "sdkVersion": "26.0.0",
     "platforms": [
       "ios",
       "android"
